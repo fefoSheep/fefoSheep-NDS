@@ -11,3 +11,8 @@ HOWE TO ISNTAL!!::: put .nds file on micro e   sd for flashcart!1 or whatever
 
 
 tested on acekard 2i! it work!!
+
+
+
+
+diuscord::: https://discord.gg/hKQYa8N
