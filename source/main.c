@@ -6,7 +6,11 @@ int main()
 	iprintf("v1.6.0\n");
 	iprintf("downloa fefoshep form gothu!!!\n");
 	swiDelay(100000000);
-	iprintf("downloa compete!! now instalin!\n");
+	iprintf("mow instalin!\n");
+	swiDelay(100000000);
+	iprintf("instaled fefshep!11\n");
+	swiDelay(100000000);
+	iprintf("now installign clongo exploit\n");
 	swiDelay(100000000);
 	iprintf("isntal compete! nowa downloa ds friig am!!!\n");
 	swiDelay(100000000);
@@ -19,6 +23,8 @@ int main()
 	iprintf("now a doanloa PEECEE GAM\n");
 	swiDelay(100000000);
 	iprintf("getin gamcub gam\n");
+	swiDelay(100000000);
+	iprinf("now instal rednand yelownan for S T A B I L I T Y\n");
 	swiDelay(100000000);
 	iprintf("u GO T  FRI GAM!!!\n");
 	swiDelay(100000000);
