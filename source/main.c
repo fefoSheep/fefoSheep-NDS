@@ -3,7 +3,7 @@
 int main()
 {
 	consoleDemoInit();
-	iprintf("v1.6.0\n");
+	iprintf("v1.7.0\n");
 	iprintf("downloa fefoshep form gothu!!!\n");
 	swiDelay(100000000);
 	iprintf("mow instalin!\n");
